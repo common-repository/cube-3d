@@ -1,0 +1,25 @@
+#cubes-3d-list {
+	margin-top: 20px;
+}
+
+#cubes-3d-list .cube-3d {
+	padding: 10px;
+	background: #ddd;
+	display: inline-block;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+#cubes-3d-list .remove {
+	cursor: pointer;
+}
+
+.form_c3d label {
+	display: inline-block;
+	width: 160px;
+	vertical-align: top;
+}
+
+.form_c3d input[type=text] {
+	width: 100px;
+}
